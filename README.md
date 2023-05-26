@@ -45,5 +45,10 @@ Contributions to this project are always welcome. If you find any issues or have
 
 This project is licensed under the [MIT License](LICENSE).
 
-  
+## GUI Interface
+
+![image](https://github.com/abhijeet-shankar/Otaku-ProfileQR/assets/90914971/7bca7fd0-e184-424b-9e30-caa1113051e4)
+
+-> Clicking on the "Generate QR profile" button will generate and save the QR code.
+
   
